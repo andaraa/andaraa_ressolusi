@@ -2,4 +2,4 @@ andara resolusi
 - belajar Github pemula
 - belajar git
 - belajar php dasar
-- balajar codeigniter
+- belajar framework
