@@ -1,0 +1,3 @@
+andara resolusi
+- belajar Github pemula
+- belajar git
